@@ -1,0 +1,15 @@
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\bin\Debug\net6.0\method.exe
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\bin\Debug\net6.0\method.deps.json
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\bin\Debug\net6.0\method.runtimeconfig.json
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\bin\Debug\net6.0\method.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\bin\Debug\net6.0\method.pdb
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.csproj.AssemblyReference.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.AssemblyInfoInputs.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.AssemblyInfo.cs
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.csproj.CoreCompileInputs.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\refint\method.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.pdb
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\method.genruntimeconfig.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\method\method\obj\Debug\net6.0\ref\method.dll
